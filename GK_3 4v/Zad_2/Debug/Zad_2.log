@@ -1,0 +1,8 @@
+﻿  Zad_2.cpp
+c:\users\wojciech\source\repos\gk_3\zad_2\zad_2.cpp(467): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\wojciech\source\repos\gk_3\zad_2\zad_2.cpp(472): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\wojciech\source\repos\gk_3\zad_2\zad_2.cpp(524): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\wojciech\source\repos\gk_3\zad_2\zad_2.cpp(526): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\wojciech\source\repos\gk_3\zad_2\zad_2.cpp(528): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\wojciech\source\repos\gk_3\zad_2\zad_2.cpp(530): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Zad_2.vcxproj -> C:\Users\Wojciech\source\repos\GK_3\Debug\Zad_2.exe

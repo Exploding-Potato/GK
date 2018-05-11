@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  Zad1.cpp
+c:\users\wojciech\source\repos\gk_1 v\consoleapplication1\zad1.cpp(11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\wojciech\source\repos\gk_1 v\consoleapplication1\zad1.cpp(42): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\Wojciech\source\repos\GK_1 v\Debug\Zad1.exe
