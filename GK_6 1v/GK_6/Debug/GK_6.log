@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  GK_6.cpp
+c:\users\wojciech\source\repos\gk_6 1v\gk_6\gk_6.cpp(40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\wojciech\source\repos\gk_6 1v\gk_6\gk_6.cpp(176): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\wojciech\source\repos\gk_6 1v\gk_6\gk_6.cpp(181): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\wojciech\source\repos\gk_6 1v\gk_6\gk_6.cpp(242): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\wojciech\source\repos\gk_6 1v\gk_6\gk_6.cpp(244): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+  GK_6.vcxproj -> C:\Users\Wojciech\source\repos\GK_6 1v\Debug\GK_6.exe
